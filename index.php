@@ -8,6 +8,7 @@
   <title>Cup Noodles</title>
   <?php include "inc/inc.css.php"; ?>
   <!-- <base href='http://localhost/landing-pages/cup-noodles/'> -->
+  <base href='https://wondrous-figolla-60c520.netlify.app/'>
 </head>
 
 <body>
